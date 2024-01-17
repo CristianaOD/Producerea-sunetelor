@@ -111,7 +111,8 @@ sd.play(wav_wave, blocking=True)
 
 sd.stop()
 
-#Sarcini:
+## Sarcini:
+
 -Scrieți tonurile pentru notele muzicale Do, Re, Mi, Fa, Sol, La, Si, Do.
 
 - Compuneți un cântec simplu clasic (ex. Frère Jacques) într-un singur semnal.
